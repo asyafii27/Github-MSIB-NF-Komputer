@@ -1,6 +1,6 @@
 Kumpulan materi Desain Web MSIB Btch 3
 HTML
 CSS
-JavaScript
-PHP
+JAvaaScript
+PHP Native
 Database MySQL
